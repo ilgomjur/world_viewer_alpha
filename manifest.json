@@ -1,0 +1,21 @@
+{
+  "short_name": "World Map",
+  "name": "Fictional World Map Viewer",
+  "description": "A viewer for your custom fictional world maps.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIiB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBzdHJva2U9IiNjZGEzNGYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxMiIgZD0iTTk2IDIzYTE5IDE5IDAgMSAwIDAgMzggMTkgMTkgMCAwIDAgMC0zOFoiLz48cGF0aCBzdHJva2U9IiNjZGEzNGYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxMiIgZD0iTTg2LjQ1NSAxMDkuNTQ1IDQyIDE1NCAxMzEuNTQ1IDYwLjQ1NSAxNzYgNDhNNjAuNDU1IDEzMS41NDUgNDIgMTU0bDI5LjU0NS02My41NDVNMTUwIDgybDI2LTU0LTEwNi40NTUgNzEuNTQ1TTg2LjQ1NSAxMDkuNTQ1IDEzMS41NDUgNjAuNDU1Ii8+PC9nPjwvc3ZnPg==",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBzdHJva2U9IiNjZGEzNGYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzMiIgZD0iTTI1NiA2M2E1MSA1MSAwIDEgMCAwIDEwMiA1MSA1MSAwIDAgMCAwLTEwMloiLz48cGF0aCBzdHJva2U9IiNjZGEzNGYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzMiIgZD0iTTIzMC41NDUgMjk1LjQ1NSA4MCA0MTMuMzMzIDM1MC43MjcgMTY0LjU0NSAyNjQuMTgyIDEyOE0xNjQuNTQ1IDM1MC43MjcgODAgNDEzLjMzM2w3OC43MjctMTY5LjQ1NU00MDMgMjIxLjMzM2w2OS4zMzMtMTQ0LTI4My44MTggMTkwLjc2NE0yMzAuNTQ1IDMwMS4wOTFMNzkuMTgyIDQxMy4zMzMiLz48L2c+PC9zdmc+",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#cda34f",
+  "background_color": "#1a1a1a"
+}
